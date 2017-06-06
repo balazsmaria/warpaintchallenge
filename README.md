@@ -1,8 +1,8 @@
-Install
--------
+Deployment
+----------
 
-1. mvn clean install
-2. java -jar target/war-paint-challenge-1.0-SNAPSHOT.jar
+1. `mvn clean install`
+2. `java -jar target/war-paint-challenge-1.0-SNAPSHOT.jar`
 
 Usage
 -----
